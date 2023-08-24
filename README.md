@@ -21,7 +21,7 @@
 
 ##
 <p align="center">
-Entre em contato comigo pelo meu email: <a href="mailto:patrick.dias123xz@gmail.com">patrick.dias123xz@gmail.com</a>
+Entre em contato comigo pelo meu email: <a href="">patrick.dias123xz@gmail.com</a>
 </p>
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Patrick510&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
