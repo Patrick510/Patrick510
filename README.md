@@ -19,10 +19,10 @@
   <a href="https://www.linkedin.com/in/patrick-d-52a10720a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-##
-<p align="center">
+<!-- <p align="center">
 Entre em contato comigo pelo meu email: <a href="">patrick.dias123xz@gmail.com</a>
 </p>
+
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Patrick510&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
