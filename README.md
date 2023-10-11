@@ -3,6 +3,7 @@
     <a href="https://www.linkedin.com/in/patrick-d-52a10720a/">Patrick Dias 😃️</a>
   </h1>
 
+<!-- -->
 <div align="center">
 <a href="https://github.com/Patrick510/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats-oaq1r2o2c-patrick510.vercel.app/api?username=Patrick510&show_icons=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=true"/> 
