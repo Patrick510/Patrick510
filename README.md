@@ -1,6 +1,6 @@
 <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/patrick-d-52a10720a/">Patrick Dias 😃️</a>
+    <a href="https://www.linkedin.com/in/patrick-d-52a10720a/">Patrick Dias 😃️👍</a>
   </h1>
 
 <div align="center">
